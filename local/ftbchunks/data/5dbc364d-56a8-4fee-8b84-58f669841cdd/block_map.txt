@@ -1,0 +1,8 @@
+#52B53D minecraft:air
+#840F59 minecraft:bedrock
+#F522F4 minecraft:chest
+#80497A minecraft:dirt
+#3F84B7 minecraft:grass_block
+#AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
+#C6D1CE minecraft:white_concrete

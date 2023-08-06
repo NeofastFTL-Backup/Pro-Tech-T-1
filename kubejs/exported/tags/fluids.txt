@@ -1,0 +1,209 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 28, 2023, 6:32:43 PM
+
+#forge:oxygen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+
+#forge:crude_oil
+- thermal:crude_oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:redstone
+- thermal:redstone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:uranium_hexafluoride
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+
+#forge:pink_slime
+- industrialforegoing:pink_slime
+
+#forge:biofuel
+- industrialforegoing:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#forge:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethene
+- mekanism:ethene
+- mekanism:flowing_ethene
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#forge:hydrogen
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+
+#create:bottomless/deny
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+
+#forge:meat
+- industrialforegoing:meat
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:chlorine
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+
+#forge:sewage
+- industrialforegoing:sewage
+
+#forge:molten_shellite
+- thermal_extra:shellite
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+
+#forge:sodium
+- mekanism:sodium
+- mekanism:flowing_sodium
+
+#forge:potion
+- cofh_core:potion
+
+#forge:molten_dragonsteel
+- thermal_extra:dragonsteel
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+
+#forge:sulfuric_acid
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+
+#forge:steam
+- mekanism:steam
+- mekanism:flowing_steam
+
+#forge:ender
+- thermal:ender
+
+#forge:experience
+- cofh_core:experience
+- industrialforegoing:essence
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+
+#forge:glowstone
+- thermal:glowstone
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:lithium
+- mekanism:lithium
+- mekanism:flowing_lithium
+
+#ae2:blacklisted/annihilation_plane
+
+#forge:molten_soul_infused
+- thermal_extra:soul_infused
+
+#forge:hydrofluoric_acid
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+
+#forge:brine
+- mekanism:brine
+- mekanism:flowing_brine
+
+#forge:latex
+- thermal:latex
+- industrialforegoing:latex
+
+#forge:honey
+- cofh_core:honey
+- create:flowing_honey
+- create:honey
+
+#forge:creosote
+- thermal:creosote
+
+#forge:sludge
+- industrialforegoing:sludge
+
+#create:no_infinite_draining
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+- mekanism:ethene
+- mekanism:flowing_ethene
+- mekanism:sodium
+- mekanism:flowing_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+- mekanism:brine
+- mekanism:flowing_brine
+- mekanism:lithium
+- mekanism:flowing_lithium
+- mekanism:steam
+- mekanism:flowing_steam
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+- mekanism:nutritional_paste
+- mekanism:flowing_nutritional_paste
+
+#forge:heavy_water
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#forge:molten_twinite
+- thermal_extra:twinite

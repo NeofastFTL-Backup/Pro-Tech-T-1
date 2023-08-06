@@ -1,0 +1,53 @@
+{
+	id: "05E64C9815AA76AD"
+	group: ""
+	order_index: 3
+	filename: "botany_pots_tiers_unlocking"
+	title: "Mod Unlocking!"
+	icon: "thermal:enderium_gear"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Unlock Botany Pots!"
+			x: -0.5d
+			y: 0.0d
+			subtitle: "Get a lot of seeds planted and harvested!"
+			id: "346D6345A1681398"
+			tasks: [{
+				id: "1834A4A40922DF91"
+				type: "item"
+				item: "kubejs:6_hay_bale"
+				count: 4L
+			}]
+			rewards: [{
+				id: "543D9751082477F7"
+				type: "command"
+				title: "Unlock it!"
+				command: "/phase grant @r botany_pots_tiering"
+				player_command: true
+			}]
+		}
+		{
+			title: "Unlock Create!"
+			x: -0.5d
+			y: -2.0d
+			subtitle: "Get a lot of seeds planted and harvested!"
+			id: "393D660E8BDC697A"
+			tasks: [{
+				id: "1678FDC17C570170"
+				type: "item"
+				item: "kubejs:6_hay_bale"
+				count: 4L
+			}]
+			rewards: [{
+				id: "0341650EA7DF36E8"
+				type: "command"
+				title: "Unlock it!"
+				command: "/phase grant @r botany_pots_tiering"
+				player_command: true
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,51 @@
+{
+	id: "5C9BEC8A651E00FF"
+	group: ""
+	order_index: 0
+	filename: "introduction_1"
+	title: "Introduction #1"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["In a once bustling minecraft dimension, nestled at the edge of the world, stood an ancient factory that had once been the pride of the community. For generations, it had been the heart of industry, providing employment and prosperity to the townsfolk. Its busy assembly lines once echoed with the sounds of progress and hope. But as time wore on, the winds of change swept through the factory, and the factory's glory days began to fade.The factory's decline began when new technologies emerged, rendering its machinery outdated and inefficient. Unable to keep up with modern demands, its products lost their competitive edge, and orders dwindled. The once-familiar hum of activity gave way to eerie silence, and the worker (yourself) found yourself with empty pockets and heavy hearts.As the factory fell into disrepair, the workers of the factory struggled to find alternative means of livelihood. Others clung to the hope that the factory would see better days, refusing to abandon their roots. Yet, despite their perseverance, the factory's fate seemed sealed."]
+			id: "7A754DDC55C0E06F"
+			tasks: [{
+				id: "547E86785C66E051"
+				type: "checkmark"
+				title: "Story #1"
+			}]
+			rewards: [{
+				id: "5C5FA59A992E9DEC"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.5d
+			description: ["But you are the one who can fix this factory back from the disrepair! You have items in your factory left with parts. Get that uncrafter going and see what parts you have left."]
+			dependencies: ["7A754DDC55C0E06F"]
+			id: "74D088856E7C9DDD"
+			tasks: [{
+				id: "754D594A693CD9F6"
+				type: "checkmark"
+				title: "Story #2 (Workround)"
+			}]
+			rewards: [{
+				id: "43ADB23CF891B589"
+				type: "item"
+				item: {
+					id: "mekanismtools:diamond_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

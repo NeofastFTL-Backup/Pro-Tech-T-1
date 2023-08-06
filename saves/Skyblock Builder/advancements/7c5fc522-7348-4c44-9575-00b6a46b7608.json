@@ -1,0 +1,113 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "spider_nest": "2023-07-28 18:32:58 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-07-28 18:42:34 +0200"
+    },
+    "done": true
+  },
+  "exmachinis:root": {
+    "criteria": {
+      "tick": "2023-07-29 19:35:03 +0200"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2023-08-05 14:56:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-08-05 14:55:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-08-05 14:43:14 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2023-07-29 19:35:03 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2023-07-29 19:35:03 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-08-05 14:35:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-08-05 14:33:12 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "highland": "2023-07-29 19:37:14 +0200",
+      "field": "2023-07-29 19:37:37 +0200",
+      "spider_nest": "2023-07-28 18:32:58 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-08-05 14:33:12 +0200"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2023-08-05 14:46:25 +0200"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2023-08-05 14:51:54 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "certus": "2023-08-05 14:33:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-08-05 14:46:25 +0200"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_block": {
+    "criteria": {
+      "dm_block": "2023-08-05 14:46:25 +0200"
+    },
+    "done": true
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2023-08-05 14:45:20 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

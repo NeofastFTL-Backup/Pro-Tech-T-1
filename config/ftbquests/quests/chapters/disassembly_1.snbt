@@ -1,0 +1,123 @@
+{
+	id: "568741EE99387679"
+	group: ""
+	order_index: 1
+	filename: "disassembly_1"
+	title: "Dis-assembly #1"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			subtitle: "1st Ingredient"
+			id: "21FD1BDE8673812E"
+			tasks: [{
+				id: "427305F8D2F63D78"
+				type: "item"
+				item: "minecraft:redstone"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			subtitle: "2nd Ingredient"
+			id: "4C377C4873A94BCC"
+			tasks: [{
+				id: "225DBD7F02F7C7A1"
+				type: "item"
+				item: "mekanism:ingot_osmium"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			subtitle: "3rd Ingredient"
+			id: "4C5D7DA9EDF51F7B"
+			tasks: [{
+				id: "7AFAF1389BB73151"
+				type: "item"
+				item: "minecraft:gold_ingot"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 0.0d
+			subtitle: "4th Ingredient"
+			id: "2741619FA8567433"
+			tasks: [{
+				id: "1DFD1F12D6E4AF95"
+				type: "item"
+				item: "minecraft:glowstone_dust"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			subtitle: "5th Ingredient"
+			id: "390E66144E148FEA"
+			tasks: [{
+				id: "06D73095D14CDDA4"
+				type: "item"
+				item: "minecraft:stick"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.0d
+			subtitle: "6th Ingredient"
+			id: "666151C9E335884C"
+			tasks: [{
+				id: "1BF387976391871D"
+				type: "item"
+				item: "thermal:electrum_ingot"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.0d
+			subtitle: "7th Ingredient"
+			id: "45D5B1B09FFEA3F9"
+			tasks: [{
+				id: "0E65F629E9C6B490"
+				type: "item"
+				item: "minecraft:copper_ingot"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			subtitle: "8th Ingredient"
+			id: "610C62AA3E874136"
+			tasks: [{
+				id: "7A9698780B7FAD45"
+				type: "item"
+				item: "minecraft:sugar_cane"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			subtitle: "9th Ingredient"
+			id: "3330D91C1B50FC76"
+			tasks: [{
+				id: "532B8192D57507D2"
+				type: "item"
+				item: "thermal:glowstone_bucket"
+			}]
+			rewards: [
+				{
+					id: "51D698C3A617E0B5"
+					type: "item"
+					item: "minecraft:oak_sapling"
+				}
+				{
+					id: "037FFC78CA9361DE"
+					type: "item"
+					item: "minecraft:dirt"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

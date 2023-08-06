@@ -1,0 +1,60 @@
+{
+	id: "5FE1A50CA974161A"
+	group: ""
+	order_index: 2
+	filename: "starting_your_basic_things"
+	title: "Starting your basic things!"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Chest 4 EMC?"
+			x: 0.0d
+			y: 0.0d
+			subtitle: "Storage is number one!"
+			id: "50FAF7488B47BE28"
+			tasks: [{
+				id: "3849877AEB280A8E"
+				type: "item"
+				title: "Any #forge:chests"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:chests"
+					}
+				}
+			}]
+			rewards: [{
+				id: "6144E9964F31EB87"
+				type: "item"
+				item: "projecte:transmutation_tablet"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			subtitle: "Uncraft the tablet!"
+			dependencies: ["50FAF7488B47BE28"]
+			id: "1DE451FEF865D011"
+			tasks: [{
+				id: "4C56B98AB22A9003"
+				type: "item"
+				item: {
+					id: "projecte:philosophers_stone"
+					Count: 1b
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
+					}
+				}
+			}]
+			rewards: [{
+				id: "0729F9C34FFEDD69"
+				type: "item"
+				item: "minecraft:sand"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

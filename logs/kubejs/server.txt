@@ -1,0 +1,10 @@
+[13:09:31] [INFO ] server_scripts:crafting.js:8: Hello, World! (You will see this line every time server resources reload)
+[13:09:31] [INFO ] Loaded script server_scripts:crafting.js in 0.002 s
+[13:09:31] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[13:09:31] [INFO ] server_scripts:script.js:22: Loading up our custom Game Phases script!
+[13:09:31] [INFO ] server_scripts:script.js:31: Loading up our custom Game Phases script!
+[13:09:31] [INFO ] server_scripts:script.js:64: Done loading!
+[13:09:31] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[13:09:31] [INFO ] Loaded 2/2 KubeJS server scripts in 0.008 s
+[13:09:31] [INFO ] Scripts loaded
+[13:09:31] [INFO ] Scanning recipes...

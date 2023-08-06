@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/stefa/curseforge/minecraft/Instances/Pro-Tech-T 1/saves/Skyblock Builder 2
+}
+

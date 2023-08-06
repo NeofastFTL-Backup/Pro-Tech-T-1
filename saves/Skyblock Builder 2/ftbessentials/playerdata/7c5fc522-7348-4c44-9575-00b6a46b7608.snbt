@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "NeofastFTL"
+	last_seen: { dim: "minecraft:overworld", x: 11, y: 66, z: 13, time: 1691320159860L, xRot: 36.300053f, yRot: -151.34998f }
+	recording: 0
+	teleport_history: [{ dim: "minecraft:overworld", x: 17, y: -306, z: 17, time: 1691246031250L, xRot: -59.999863f, yRot: 154.65207f }]
+	homes: { }
+}

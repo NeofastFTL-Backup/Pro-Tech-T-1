@@ -1,0 +1,5 @@
+#6D4 biomesoplenty:field
+#467 biomesoplenty:highland
+#1AB biomesoplenty:ominous_woods
+#5FF minecraft:river
+#14C biomesoplenty:spider_nest

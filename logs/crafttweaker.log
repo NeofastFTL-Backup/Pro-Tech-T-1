@@ -1,0 +1,39 @@
+[12:42:34.814][INFO]: Successfully identified and loaded plugin botania:default
+[12:42:34.823][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[12:42:34.865][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[12:42:34.868][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[12:42:34.873][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[12:42:39.467][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[12:42:39.468][INFO]: - 'botania' at version '1.18.2-435'
+[12:42:39.469][INFO]: - 'crafttweaker' at version '9.1.209'
+[12:42:39.469][INFO]: - 'excompressum' at version '5.0.3'
+[12:42:39.469][INFO]: - 'exnihilosequentia' at version '1.18.2-20230528-221633'
+[12:42:39.469][INFO]: - 'extendedcrafting' at version '4.1.2'
+[12:42:39.469][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[12:42:39.469][INFO]: - 'mekanism' at version '10.2.5'
+[12:42:39.469][INFO]: - 'mysticalagriculture' at version '5.1.5'
+[12:42:39.469][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.0-19'
+[12:42:39.469][INFO]: - 'projecte' at version '1.0.1'
+[12:42:39.469][INFO]: - 'thermal' at version '9.2.0.46'
+[12:42:39.469][INFO]: - 'thermal_foundation' at version '9.2.0.46'
+[12:42:48.735][INFO]: Started loading scripts for loader 'mekanismcontent'
+[12:42:48.926][INFO]: Compiling and executing scripts
+[12:42:49.363][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:42:49.475][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[12:42:49.475][INFO]: Registering 0 custom gases.
+[12:42:49.487][INFO]: Registering 0 custom infuse types.
+[12:42:49.499][INFO]: Registering 0 custom pigments.
+[12:42:49.505][INFO]: Registering 0 custom robit skins.
+[12:42:49.511][INFO]: Registering 0 custom slurries.
+[12:42:53.675][INFO]: Started loading scripts for loader 'initialize'
+[12:42:53.727][INFO]: Compiling and executing scripts
+[12:42:53.734][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:42:53.749][INFO]: Execution for loader 'initialize' completed successfully
+[12:43:39.362][INFO]: Started loading scripts for loader 'tags'
+[12:43:39.377][INFO]: Compiling and executing scripts
+[12:43:39.380][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:43:39.388][INFO]: Execution for loader 'tags' completed successfully
+[12:43:43.317][INFO]: Started loading scripts for loader 'crafttweaker'
+[12:43:43.329][INFO]: Compiling and executing scripts
+[12:43:43.443][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:43:43.448][INFO]: Execution for loader 'crafttweaker' completed successfully

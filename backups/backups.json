@@ -1,0 +1,69 @@
+{
+  "backups": [
+    {
+      "worldName": "Skyblock Builder",
+      "createTime": 1691240400083,
+      "backupLocation": "C:\\Users\\stefa\\curseforge\\minecraft\\Instances\\Pro-Tech-T 1\\backups\\2023-8-5_15-0-0.zip",
+      "size": 0,
+      "ratio": 0.24638094,
+      "sha1": "5bd8012db3f14548ddb7cde513e15820cb79fe5b",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "Skyblock Builder",
+      "createTime": 1691245800164,
+      "backupLocation": "C:\\Users\\stefa\\curseforge\\minecraft\\Instances\\Pro-Tech-T 1\\backups\\2023-8-5_16-30-0.zip",
+      "size": 0,
+      "ratio": 0.25459483,
+      "sha1": "1a01a8adcb3358b7ef8d5c6b6d0624597239aed1",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "Skyblock Builder",
+      "createTime": 1691312400080,
+      "backupLocation": "C:\\Users\\stefa\\curseforge\\minecraft\\Instances\\Pro-Tech-T 1\\backups\\2023-8-6_11-0-0.zip",
+      "size": 0,
+      "ratio": 0.28793475,
+      "sha1": "b391c54f5dc63d2b988817f8af5cef0b6462d188",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "Skyblock Builder",
+      "createTime": 1691314200100,
+      "backupLocation": "C:\\Users\\stefa\\curseforge\\minecraft\\Instances\\Pro-Tech-T 1\\backups\\2023-8-6_11-30-0.zip",
+      "size": 0,
+      "ratio": 0.28996232,
+      "sha1": "e3d6c779f308a669ee7700ab7775337248a6c072",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "Skyblock Builder 2",
+      "createTime": 1691319600184,
+      "backupLocation": "C:\\Users\\stefa\\curseforge\\minecraft\\Instances\\Pro-Tech-T 1\\backups\\2023-8-6_13-0-0.zip",
+      "size": 0,
+      "ratio": 0.29022813,
+      "sha1": "fea68dda5acdafe415af16c2ef7bafce4a29a359",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}
